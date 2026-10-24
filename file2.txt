@@ -1,2 +1,2 @@
-file 2 uhuy
+
 menambahkan teks baru di file 2
